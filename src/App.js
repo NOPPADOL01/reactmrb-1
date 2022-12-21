@@ -16,7 +16,7 @@ function App() {
         </header>
         <body className="App-body">
           <br />
-          <div className="App-Status">ขนาดนี้ห้องยังว่าง</div>
+          <div className="App-Status">Available</div>
           <br />
           
           <div className="App-Patner">
